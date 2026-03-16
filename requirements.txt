@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+supabase
+python-dotenv
+pydantic
+pydantic-settings
+httpx
+google-generativeai
+google-genai
+fpdf
+gunicorn
